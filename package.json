@@ -57,7 +57,7 @@
     "express-secure-only": "^0.2.1",
     "helmet": "^3.21.2",
     "html-to-react": "^1.4.2",
-    "ibm-watson": "^5.1.0",
+    "ibm-watson": "^8.0.0",
     "isomorphic-fetch": "^2.2.1",
     "language-list": "0.0.3",
     "map-range": "^0.1.2",
